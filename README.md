@@ -6,12 +6,8 @@ Working in all samsung devices i.e. Samsubg Tab A9, Samsung A03
 <div>
   <p>Video Credits - www.youtube.com/@TheGsmWork</p>
   <ol>
-    <li>
-      www.youtu.be/JYSWscU_Mqw?si=wEvkbY64aiaPvI6X
-    </li>
-    <li>
-      www.youtu.be/gVGxuJmRV_Y?si=qMWWk7OX23Mmv2-y
-    </li>
+    <li>https://youtu.be/JYSWscU_Mqw</li>
+    <li>https://youtu.be/gVGxuJmRV_Y</li>
   </ol>
   <div>
     <p>All the installation files and commands are compresssed in a Remove-restriction.zip file, which is showing under Releases in this Repository to download</p>
